@@ -26,7 +26,6 @@ body {
     max-width: 20rem;
     background-color: #fff;
     border-radius: 20px;
-    border: 2px solid green;
 }
 
 .qr {
@@ -39,13 +38,11 @@ body {
     max-width: 100%;
     padding: 16px;
     border-radius: 30px;
-    border: 2px solid purple;
 }
 
 .qr-content {
     max-width: 100%;
     padding: 8px 16px 40px 16px;
-    border: 1px solid red;
 }
 
 .qr-content h1 {
